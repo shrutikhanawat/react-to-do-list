@@ -1,0 +1,21 @@
+.To-do-list{
+  width:500px;
+  margin: auto;
+  background-color: thistle;
+  text-align:left;
+  position: relative;
+
+
+}
+.div-container {
+    position:relative;
+    margin-left: 12px;
+    margin-bottom: 12px;
+    padding-left: 35px;
+    display:block;
+    cursor: pointer;
+    font-size: 22px;
+
+
+
+}
